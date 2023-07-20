@@ -1,0 +1,5 @@
+.bgImage {
+    background: url('/public/apps.jpg');
+    background-size: contain;
+    background-position: center;
+}
